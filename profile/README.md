@@ -1,101 +1,89 @@
 <div align="center">
 
-# 🎣 ReelPoints
+<img src="./assets/reelpoints-github-hero.jpg" alt="ReelPoints — Fishing navigation built for the water" width="100%" />
 
-### Professional Fishing Navigation. Built Around the Way Fishermen Actually Fish.
+<br />
 
-**Precision waypoints • Marine navigation • Fishing intelligence • Connected vessel data**
+# ReelPoints
 
-<br>
+### Navigation built around fishing.
 
-![Development](https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPMENT-087EA4?style=for-the-badge)
-![Android](https://img.shields.io/badge/ANDROID-MOBILE%20NAVIGATION-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Auto](https://img.shields.io/badge/ANDROID%20AUTO-INTEGRATION-4285F4?style=for-the-badge&logo=androidauto&logoColor=white)
-![Marine](https://img.shields.io/badge/MARINE-NAVIGATION-005F73?style=for-the-badge)
-![NMEA](https://img.shields.io/badge/NMEA%202000-CONNECTED%20VESSEL-023047?style=for-the-badge)
+**Precision waypoints · Live GPS · Lake & offshore chart packs · Tournament tools · Connected marine navigation**
 
-<br>
+<br />
 
-**Find the spot. Navigate to it. Understand what's happening when you get there.**
+[![Status](https://img.shields.io/badge/status-active%20development-18AFEB?style=for-the-badge)](#development)
+[![Platform](https://img.shields.io/badge/platform-Android-0FC5A4?style=for-the-badge&logo=android&logoColor=white)](#the-platform)
+[![Marine](https://img.shields.io/badge/focus-marine%20navigation-102F50?style=for-the-badge)](#the-platform)
 
 </div>
 
 ---
 
-## Fishing Navigation Should Do More Than Show You a Map
+## Fishing navigation should do more than show you a map.
 
-Most navigation apps were designed to answer one question:
+Most navigation apps answer one question: **Where am I?**
 
-> **Where am I?**
-
-ReelPoints is being built to answer the question fishermen actually care about:
+ReelPoints is being built around the question anglers actually care about:
 
 > **Where should I fish — and how do I get there?**
 
-ReelPoints combines professional-grade waypoint management, curated fishing locations,
-marine navigation, vehicle integration and connected-vessel data into one fishing
-navigation platform.
+ReelPoints brings fishing-specific waypoints, live GPS navigation, chart packs, saved routes, tournament tools and on-water data into one purpose-built experience.
 
-Whether you're running across a lake before daylight or heading offshore,
-ReelPoints is designed around the information fishermen actually use.
+<img src="./assets/app-showcase.jpg" alt="ReelPoints app experience" width="100%" />
 
----
+## The platform
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📍 Precision Waypoints
+### 📍 Fishing-specific waypoints
 
-Organize fishing locations around actual structure, patterns and productive water.
+Build and use location libraries around the things anglers actually fish:
 
-- Fishing waypoint management
-- Lake-specific locations
-- Offshore locations
-- Structured waypoint collections
-- Fast location search
-- Navigation directly to fishing areas
+- Dropoffs
+- Stumps
+- Humps
+- Ledges
+- Structure
+- Ramps and access points
+- Saved fishing locations
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🗺️ Lake & Offshore Packs
+### 🗺️ Lake & offshore chart packs
 
-Fishing knowledge shouldn't disappear every time you change electronics.
+Organize productive water into easy-to-use location packs instead of scattering years of fishing knowledge across devices and files.
 
-ReelPoints is designed around portable location libraries covering:
-
-- Freshwater lakes
-- Coastal waters
-- Offshore fishing areas
-- Structure and fishing zones
-- Professionally curated waypoint collections
+ReelPoints is designed to support freshwater, coastal and offshore location libraries.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Android Auto
+### 🧭 Live navigation
 
-Your fishing navigation shouldn't start after the boat is already in the water.
+The navigation experience puts the important information where it belongs:
 
-ReelPoints is being designed to extend navigation into compatible vehicle systems
-through **Android Auto**, helping fishermen move naturally from road navigation
-to marine navigation.
+- Live GPS
+- Heading
+- Bearing
+- Speed
+- Position
+- Saved routes
+- Quick-mark waypoint creation
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚓ Connected Vessel Data
+### 🎣 Built for the fishing day
 
-ReelPoints is being designed to work with the boat — not just the phone.
+ReelPoints goes beyond getting you to the spot.
 
-Future connected-vessel capabilities can incorporate marine sensor data through
-systems such as **NMEA 2000**, Bluetooth and Wi-Fi connected equipment.
+The app UI includes tournament livewell tools, catch logging, favorite chart packs and a Captain's Log experience designed around what happens before, during and after a day on the water.
 
 </td>
 </tr>
@@ -103,95 +91,104 @@ systems such as **NMEA 2000**, Bluetooth and Wi-Fi connected equipment.
 
 ---
 
-## 🧠 Fishing Intelligence
+## Built to be useful at a glance
 
-<div align="center">
+<img src="./assets/wearable-showcase.jpg" alt="ReelPoints glanceable navigation screens" width="100%" />
 
-### A waypoint is more useful when the app understands what's around it.
-
-</div>
-
-ReelPoints is being developed as more than a collection of GPS coordinates.
-
-The platform is designed to bring together:
-
-**Location**
-
-`Waypoint → Structure → Depth → Area`
-
-**Conditions**
-
-`Weather → Water → Time → Seasonal Patterns`
-
-**Navigation**
-
-`Current Position → Destination → Route`
-
-**Vessel Data**
-
-`Boat → Sensors → Marine Network → ReelPoints`
-
-The long-term goal is a system capable of helping fishermen turn all of that
-information into something immediately useful on the water.
+Whether the next action is **marking a spot**, checking **latitude and longitude**, seeing the **next waypoint**, or reading the **digital helm**, ReelPoints keeps essential navigation data immediate.
 
 ---
 
-## 🎯 Built for Serious Fishing
-
-ReelPoints is designed for people who measure a fishing location in feet,
-not miles.
-
-That means putting fishing information first:
-
-| ReelPoints Focus | What It Means |
-|:---|:---|
-| 📍 **Precise Locations** | Navigation centered around fishing-specific waypoints |
-| 🎣 **Fishing Context** | Organize locations around the way anglers actually fish |
-| 🗺️ **Location Libraries** | Lake, coastal and offshore waypoint collections |
-| 🚗 **Vehicle Integration** | Navigation continuity through Android Auto |
-| ⚓ **Boat Integration** | Architecture designed for connected marine systems |
-| 🧠 **Fishing Intelligence** | Turn navigation and conditions into useful fishing information |
-
----
-
-<div align="center">
-
-# From Road → Ramp → Water → Fish
-
-</div>
+## From road → ramp → water → fish
 
 ```text
-                 REELPOINTS
+TRIP PLANNING
+      │
+      ▼
+LAKE / OFFSHORE PACK
+      │
+      ▼
+LIVE NAVIGATION
+      │
+      ├──────────────► QUICK MARK
+      │
+      ├──────────────► SAVED ROUTES
+      │
+      ├──────────────► POSITION / BEARING
+      │
+      └──────────────► CAPTAIN'S LOG
+                              │
+                              ▼
+                         FISHING DATA
+```
 
-                     │
-                     ▼
-              ┌─────────────┐
-              │   TRIP      │
-              │   PLANNING  │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │ ANDROID     │
-              │ AUTO        │
-              └──────┬──────┘
-                     │
-                     ▼
-              ┌─────────────┐
-              │   BOAT      │
-              │ NAVIGATION  │
-              └──────┬──────┘
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-   ┌─────────────┐       ┌─────────────┐
-   │ WAYPOINTS   │       │ VESSEL DATA │
-   │ & STRUCTURE │       │ & SENSORS   │
-   └──────┬──────┘       └──────┬──────┘
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-             ┌───────────────┐
-             │   FISHING     │
-             │ INTELLIGENCE  │
-             └───────────────┘
+The goal is a continuous fishing-navigation workflow instead of a collection of disconnected tools.
+
+---
+
+## Screens from the app
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./assets/reelpoints-dashboard.jpg" alt="ReelPoints dashboard" width="430" />
+<br />
+<b>Dashboard & lake packs</b>
+</td>
+<td width="50%" align="center">
+<img src="./assets/live-navigation.jpg" alt="ReelPoints live navigation" width="430" />
+<br />
+<b>Live navigation</b>
+</td>
+</tr>
+</table>
+
+---
+
+## Marine connectivity
+
+ReelPoints is being designed with a path toward a broader connected-vessel platform, including integration work around:
+
+**Android Auto · NMEA 2000 · Bluetooth · Wi‑Fi marine sensors · vessel data**
+
+That gives ReelPoints room to grow from a mobile navigation application into a system that can bring together fishing locations, route context and boat data.
+
+---
+
+## Why ReelPoints
+
+| | |
+|---|---|
+| **Fishing first** | Features are designed around the workflow of an angler, not generic road navigation. |
+| **Location libraries** | Fishing knowledge can be organized into lake, coastal and offshore packs. |
+| **Fast access** | Important on-water information stays visible and easy to reach. |
+| **Portable knowledge** | Fishing data should outlive any single GPS unit or chartplotter. |
+| **Expandable platform** | ReelPoints is being built with vehicle and marine-system integration in mind. |
+
+---
+
+## Development
+
+ReelPoints is under active development.
+
+Current and planned areas include mobile navigation, waypoint management, lake and offshore packs, mapping, route tools, tournament features, Android Auto integration, marine sensor connectivity and fishing intelligence.
+
+---
+
+## Partnership & integration
+
+We're interested in technology and data that make fishing navigation better, including:
+
+**Marine electronics · Mapping · GPS · Sonar · NMEA 2000 · Weather & water data · Boat systems · Fishing data**
+
+---
+
+<div align="center">
+
+<img src="./assets/reelpoints-logo.png" alt="ReelPoints" width="420" />
+
+### Know the spot. Get there. Fish it.
+
+**ReelPoints — Built for the water.**
+
+</div>
